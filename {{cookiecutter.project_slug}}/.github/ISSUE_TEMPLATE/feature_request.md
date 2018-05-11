@@ -1,18 +1,20 @@
+### System Info
+
 * {{ cookiecutter.project_name }} version:
 * Python version:
 * Operating System:
 
+---
 ### Description
 
 I use {{ cookiecutter.project_name }} for:
 
 I would like to see the following feature:
 
-### My Vision
+---
+### Vision
 
-```
-This is creative safe space feel free to add pseudo-code, flow-charts, even pics of a whiteboard sketch, it doesn't matter the quality the more information the better.
-```
+>This is creative safe space feel free to add pseudo-code, flow-charts, even pics of a whiteboard sketch, it doesn't matter the quality the more information the better.
 
 ---
 
