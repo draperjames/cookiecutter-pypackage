@@ -15,11 +15,7 @@
         :alt: Documentation Status
 {%- endif %}
 
-{% if cookiecutter.add_submit_badges == 'y' %}
-.. image:: https://pyup.io/repos/github/{{ cookiecutter.github_username }}/{{ cookiecutter.project_slug }}/shield.svg
-     :target: https://pyup.io/repos/github/{{ cookiecutter.github_username }}/{{ cookiecutter.project_slug }}/
-     :alt: Updates
-     
+{% if cookiecutter.add_user_experience_badges == 'y' %}
 .. image:: https://img.shields.io/badge/user%20experience-submit%20bug-red.svg
      :target: https://github.com//{{ cookiecutter.github_username }}/{{ cookiecutter.project_slug }}/ssues/new?template=feature_request.md&labels=FEATURE%20REQUEST&title=FEATURE%20REQUEST%20:
      :alt: Feature Request
