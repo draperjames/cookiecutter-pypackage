@@ -4,12 +4,12 @@ from distutils.core import setup
 setup(
     name='cookiecutter-pypackage',
     packages=[],
-    version='0.1.0',
-    description='Cookiecutter template for a Python package',
-    author='Audrey Roy Greenfeld',
+    version='0.0.1',
+    description='Description to come.',
+    author='James Draper',
     license='BSD',
-    author_email='aroy@alum.mit.edu',
-    url='https://github.com/audreyr/cookiecutter-pypackage',
+    author_email='james.draper@protonmail.com',
+    url='https://github.com/draperjames/crumb-python-package',
     keywords=['cookiecutter', 'template', 'package', ],
     classifiers=[
         'Development Status :: 4 - Beta',
